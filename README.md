@@ -1,7 +1,3 @@
-Here’s an improved **README** with an **explanation of the code** along with the **license** and **author details**.  
-
----
-
 # 🔐 Automated Login & OTP Verification  
 
 This project automates the **login process** for a website that requires **OTP-based authentication**. It uses **Playwright** 🎭 for browser automation and **Gmail API** 📩 to fetch OTP codes from an email account.
